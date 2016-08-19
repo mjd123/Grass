@@ -23,8 +23,8 @@ var main =  document.getElementById("main")
 function parallax(){
 	 var scrolltop = window.pageYOffset
 	
-	 title.style.top = scrolltop * .3 + 'px' // move bubble1 at 20% of scroll rate
- main.style.top = scrolltop * .4 + 'px' // move bubble2 at 50% of scroll rate
+	 title.style.top = scrolltop * .3 + 'px'
+ main.style.top = scrolltop * .4 + 'px' 
 
 }
 
