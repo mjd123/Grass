@@ -28,6 +28,5 @@ function parallax(){
 
 }
 
-window.addEventListener("scroll" ,parallax);
-	//requestAnimationFrame(parallax)
+window.addEventListener("scroll" ,parallax); //request parallax function
 	console.log ("scroll called")
