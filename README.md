@@ -1,4 +1,3 @@
-# Grass
-Hero img
+# Grass Hero img
 one page
 Jquery effects
